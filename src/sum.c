@@ -1,4 +1,4 @@
-#include "functions.h"
+#include "../include/functions.h"
 
 int sum(int n) {
     int res = 0;

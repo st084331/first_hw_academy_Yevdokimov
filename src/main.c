@@ -1,9 +1,8 @@
 #include <stdio.h>
-#include "functions.h"
+#include "../include/functions.h"
 
 int main(){
     //error 2
-    //i = 8;
     print_message();
     printf("The sum of 5 is %d", sum(5));
 
